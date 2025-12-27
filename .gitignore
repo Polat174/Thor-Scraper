@@ -1,0 +1,7 @@
+*.exe
+*.dll
+çıktı/
+output/
+screenshots/
+html/
+go.sum
