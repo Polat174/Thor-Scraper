@@ -30,3 +30,10 @@ Bu projeyi çalıştırmak için bilgisayarınızda aşağıdakilerin kurulu olm
 git clone https://github.com/Polat174/Thor-Scraper.git
 (https://github.com/Polat174/Thor-Scraper.git)
 cd Thor-Scraper
+
+### Bagimliliklari Yukleyin
+
+Projenin tam uyumlu çalışması ve gerekli kütüphanelerin (chromedp vb.) birebir aynı sürümlerinin yüklenmesi için şu komutu çalıştırın:
+
+```bash
+go mod download
